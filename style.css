@@ -67,13 +67,17 @@ nav  a:hover{
 h2{
     margin-top: 50px;
     margin-bottom: 50px;
-    font-size: 52px;
+    font-size: 53.333px;
     color: #3d5cdb;
     text-align: center;
 
-    font-family: futura-pt, sans-serif;
+
+
+
+
+    font-family: "futura-pt-condensed", sans-serif;
+    font-weight: 700;
     font-style: normal;
-    font-weight: 600;
 }
 
 .intro1{
