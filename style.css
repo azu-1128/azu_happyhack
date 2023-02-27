@@ -5,8 +5,10 @@
 
 nav{
     justify-content: space-between;
-    padding: 30px 30px 30px 900px;
+    padding: 30px ;
     position: absolute;
+    right:50px;
+    
 }
 
 nav ul{
@@ -54,7 +56,12 @@ nav  a:hover{
     color: #ffffff;
     font-size: 48px;
     margin-top: 50px;
+
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    font-weight: 400;
     font-style: italic;
+    
 }
 
 h2{
